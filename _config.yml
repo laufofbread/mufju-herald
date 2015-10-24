@@ -4,7 +4,7 @@ email: hello@lauramccartney.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   A truly stupendous blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://laufofbread.github.io/mufju-herald/" # the base hostname & protocol for your site
 twitter_username: laufofbread
 github_username:  laufofbread
 
