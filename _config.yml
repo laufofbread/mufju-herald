@@ -1,9 +1,11 @@
 # Site settings
 title: Mufju Herald
 email: hello@lauramccartney.co.uk
+
 description: > # this means to ignore newlines until "baseurl:"
-  A truly stupendous blog.
-baseurl: "/mufju-herald/" # the subpath of your site, e.g. /blog/
+  The Mufju Herald covers contemporary thoughts on art, design and photography. It was created by Laura McCartney and Julian Camilo.
+  
+baseurl: "/mufju-herald" # the subpath of your site, e.g. /blog/
 url: "http://laufofbread.github.io" # the base hostname & protocol for your site
 twitter_username: laufofbread
 github_username:  laufofbread

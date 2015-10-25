@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5 {
+    font-family:    $serif;
+    line-height:    1.1;
+    @include transition-hover();
+    
+    &:hover a {
+        color:  $secondary-color;
+        text-decoration:    none;
+    }
+}
+
+a {
+    @include transition-hover();
+    &:hover {
+        color:  $secondary-color;
+         text-decoration:    none;
+    }
+}
+
+.snippet, .post-details {
+    font-size:  0.8em;
+}
